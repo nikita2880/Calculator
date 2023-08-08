@@ -1,9 +1,9 @@
-                                       # Calculator[DEMO]()
+# Calculator : [DEMO]()
                           Checkout this calculator built using HTML,CSS,JS.
 
-🌑 Dark Mode:
+### 🌑 Dark Mode:
 ![](images/dark.png)
 
-🔆 Light Mode:
+### 🔆 Light Mode:
 ![](images/light.png)
 
